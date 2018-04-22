@@ -1,0 +1,64 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+
+
+
+int main()
+{
+	int x = 1,z;
+	double a, b, c;
+	char s;
+
+	while (x >= 1)
+	{
+
+
+		cout << " Enter 2 Number to calculator" << endl;
+		cin >> a >> s >> b;
+
+		switch (s)
+		{
+		case '+':
+			c = a + b;
+			break;
+
+		case '-':
+			c = a - b;
+			break;
+
+		case '*':
+			c = a * b;
+			break;
+
+		case '/':
+			c = a / b;
+			break;
+
+		case '^':
+			c = pow(a, b);
+			break;
+
+
+		
+		}
+		cout << a << s << b << '=' << c << endl;
+		cout << " agin enter 2 or 1 to stop " << endl;
+		cin >> z;
+
+		if (z == 2)
+		{
+			x = 5;
+		}
+
+		if (z == 1)
+		{
+			x = 0;
+		}
+	}
+	
+
+	system("pause");
+	return 0;
+}

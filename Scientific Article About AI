@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+
+        <title> Website About Artificial intelligence (AI)  </title>
+        
+        
+              <script type = "text/javascript">
+                  
+            var name; 
+
+         name = window.prompt( "Welcome to My Website I wish you a pleasant reading \n Please enter your name" );
+         document.writeln( "<h1>Welcome "+name+ " to My Website</h1>" );
+
+        
+              </script>
+
+              <script type="text/javascript">
+                  
+         function myFunction() {
+             
+        window.alert("If yes, press 1 \n If no, press 2");
+             var age=1;
+		var age = prompt("Andreas Kaplan and Michael Heinlin define artificial intelligence as the ability of the system to interpret external data correctly, learn from that data, and use that knowledge to achieve specific goals and tasks through flexible adaptation.");
+             
+		if(age==1)
+		document.write("Correct Answer<br />");
+		if(age==2)
+		document.write(" Not The Correct Answer <br />");
+	
+         }
+             
+              </script>
+        
+        
+
+              <script type="text/javascript">
+                  
+         function my1Function() {
+             
+        window.alert("If yes, press 1 \n If no, press 2");
+        var age1=1;
+		var age1 = prompt("1985 the profits of AI research in the market had reached more than $ 1 billion, and governments began funding again. A few years later, starting with the collapse of the Lisp Machine market in 1982, AI research has seen yet another setback.");
+             
+		if(age1==1)
+		document.write("Not The Correct Answer<br />");
+		if(age1==2)
+		document.write("Correct Answer <br />");
+	
+         }
+              </script>
+        
+        
+        <script type="text/javascript">
+                  
+         function my2Function() {
+             
+        window.alert("If yes, press 1 \n If no, press 2");
+             var age2=1;
+		var age2 = prompt("One of the problems of artificial intelligence is data loss");
+             
+		if(age2==1)
+		document.write("Correct Answer<br />");
+		if(age2==2)
+		document.write(" Not The Correct Answer <br />");
+	
+         }
+             
+              </script>
+    </head>
+
+    <body id="w0">
+        
+        
+
+        <div id="a">.
+        <lu>
+            <li>l<a href="/index.html">  Home </a>l</li>
+            <li>l<a href="#About us">  About us </a>l</li>
+            <li>l<a href="#References">  References </a>l</li>
+             <li>l<a href="/from.html">  From </a>l</li>
+            <li>l<a href="#History">  History of (AI) </a>l</li>
+            <li>l<a href="#Schedule">  Schedule (AI) </a>l</li>
+            <li>l<a href="#The future">  The future of(AI) </a>l</li>
+            <li>l<a href="#Conclusion">  Conclusion (AI) </a>l</li>
+        </lu>
+            
+        </div>
+        
+        
+        
+        
+        <div>
+        
+            
+            <h1 id="a1">Artificial intelligence (AI)</h1>
+        <img src="image/b2.jpg">
+        
+            
+            <p id="a2"> Artificial intelligence is the specific behavior and characteristics of computer programs that mimic human mental abilities and work patterns. One of the most important of these characteristics is the ability to learn, deduce and react to situations not programmed in the machine. However, this term is controversial because there is no specific definition of intelligence.</p>
+
+          
+            <p id="a2">Artificial intelligence is a branch of computer science. Many writers define artificial intelligence as “studying and designing smart clients.” A smart client is a system that accommodates his environment and takes situations that increase his chance of success in fulfilling his or her team's mission.</p>
+
+
+            
+            <p id="a2">This definition, in terms of objectives, actions, perception and environment is due to Russell & Norvig (2003) and also include other definitions of knowledge and learning as additional criteria. Computer terminologist John McCarthy originally coined the term in 1956, defining himself as "the science and engineering of making intelligent machines." Andreas Kaplan and Michael Heinlin define artificial intelligence as "the ability of the system to interpret external data correctly, learn from that data, and use that knowledge to achieve specific goals and tasks through flexible adaptation."</p>
+
+            <img src="image/b3.jpg">
+
+            <p id="a2">This field was founded on the assumption that the queen of intelligence could be described so accurately that the machine could emulate it. This raises a philosophical debate about the nature of the human mind and the limits of scientific methods, issues that have been discussed in legendary, fictional and philosophical discussions since ancient times. There is also a debate about what intelligence and types of intelligence possessed by man, and how to simulate it with the machine. Artificial intelligence has been the cause of highly optimistic ideas. It has suffered huge setbacks throughout history, and today it has become an essential part of the technology industry, bearing the burden of the most difficult problems in modern computer science.</p>
+
+
+            <p id="a2">AI research is so highly specialized and technical that some critics criticize the "break-up" of the field. The sub-domains of artificial intelligence revolve around particular problems, the application of special tools and about old theoretical differences of opinion. The main problems of AI include capabilities such as logical thinking, knowledge, planning, learning, communication, perception, and the ability to move and change things. General intelligence (or “strong artificial intelligence”) remains a long-term goal of some research in this area.</p>
+            <div id="D"><button onclick="myFunction()">Test your knowledge</button> </div>
+            
+            <div id="History"></div>
+            <h1 id="a1">History of Artificial Intelligence</h1>
+            
+             <img src="image/History-of-Artificial-Intelligence.jpg">
+            
+            <p id="a2">In the mid-twentieth century, a few scientists began exploring a new approach to building intelligent machines, based on recent discoveries in neuroscience, a new mathematical theory of information, the development of cybernetics and, above all, by inventing a digital computer, a machine that could simulate Human computational thinking process.</p>
+
+            <p id="a2">He founded the modern field of AI research at a conference on the Dartmouth College campus in the summer of 1956. These attendees became leaders of AI research for decades, notably John McCarthy, Marvin Minsky, Allen Noel and Herbert Simon, who founded artificial intelligence laboratories at the Massachusetts Institute of Technology (MIT) and the University of Massachusetts. Carnegie Mellon (CMU) and Stanford; they and their pupils wrote programs that surprised most people. The computer solved algebra problems, established logical theories, and spoke English. By the mid-1960s, that research was generously funded by the Pentagon. These researchers made the following predictions:</p>
+
+             <p id="a2">In 1965, e. a. Simon: "In 20 years, machines will be able to do whatever man can do." 1967, Marvin Minsky: "Within a generation ... the problem of creating 'artificial intelligence' will be solved dramatically."But they failed to recognize the difficulty of some of the problems they faced. In 1974, in response to criticism of Sir James Lighthill of England and continued pressure from Congress to fund more productive projects, the US and British governments cut off funding for all unguided exploratory AI research, the first setback in AI research.</p>
+
+            <img src="image/1_JxdsyAuJQuHGnyDaUcPXyQ.png">
+
+            <p id="a2"> In the early 1980s, AI research saw a new awakening through the commercial success of Expert Systems, an AI program that mimics the analytical knowledge and skills of one or more human experts. By 1985 the profits of AI research in the market had reached more than $ 1 billion, and governments began funding again. A few years later, starting with the collapse of the Lisp Machine market in 1987, AI research has seen yet another setback.</p>
+
+            <p id="a2">In the 1990s and early 21st century, AI had greater successes, albeit somewhat behind the scenes. Artificial intelligence is used in logistics, data mining, medical diagnostics and many other areas throughout the technology industry. This success is due to several factors: the great power of computers today (see Moore's Law), the increased focus on solving specific sub-problems, the creation of new relationships between the field of artificial intelligence and other areas of work in similar problems, and above all researchers began to adhere to strong mathematical approaches And strict scientific standards.</p>
+            <div id="D">  <button onclick="my1Function()">Test your knowledge</button> </div>
+            <div id="Schedule"></div>
+            <h2 id="a1">Artificial intelligence (AI)</h2>
+
+
+          
+            <table>
+  
+                <tr>
+                    <th>Types of (AI)</th>
+                    <th>problems of (AI)</th>
+                    <th>Pros of (AI)</th>
+                    <th>Cons of (AI)</th>
+                    <th>Programming languages in the field of (AI)</th>
+                </tr>
+  
+                <tr>
+                    
+                    <td>Narrow artificial intelligence</td>
+                    <td>No place for emotions</td>
+                    <td>To defend cybersecurity</td>
+                    <td> Bias of artificial intelligence</td>
+                    <td>PYTHON</td>
+                   
+                </tr>
+               
+                    <tr>
+                    
+                     <td>General Artificial Intelligence</td>
+                     <td>The unemployment</td>
+                     <td>Healthcare</td>
+                     <td>A global arms race using artificial intelligence</td>
+                    <td>LISP</td>
+
+                    </tr>
+                    
+                   <tr>
+                      <td>superior artificial intelligence</td>
+                      <td>High cost</td>
+                      <td>Recruitment processes</td>
+                      <td>Increasing the income gap between the rich and the poor </td>
+                      <td>JAVA</td>
+                     
+                     
+                    </tr>
+                    
+                    <tr>
+                       <td>Self - cognition</td>
+                       <td>Data loss</td>
+                       <td>Understanding customers</td>
+                       <td>Loss of jobs</td>
+                       <td>C ++</td>
+                    </tr>
+               
+            </table>
+            <div id="D"><button onclick="my2Function()">Test your knowledge</button> </div>
+          
+ 
+             <img src="image/b9.jpg">
+            <div id="The future"></div>
+            <h1 id="a1">The future of artificial intelligence</h1>
+
+            
+            <p id="a2">Scientists and researchers are working to develop the future of artificial intelligence in a way that can be greatly benefited in many aspects of life; from smartphones, to cars, or even smart home.</p>
+
+           
+              
+            <p id="a2"><spam id="c">Entertainment</spam>: Humans may be able to watch a movie of their own choice. Artificial intelligence systems may help production companies analyze the scenario of a particular film and predict the profits that the film will make when it is shown in cinemas.</p>
+
+             
+    
+            <p id="a2"><spam id="c">Medical care</spam>: Future AI systems are expected to provide superior medical care to humans by providing special care to each patient according to their genes, lifestyle and environment, helping to diagnose brain tumors and treat cancer that is appropriate for each patient. Data and information security: </p>
+                <img src="image/b10.jpg">
+                <p id="a2">Future AI systems are expected to be able to protect people's data from theft and intrusion. Everyday life: Future intelligence systems will have a big role in doing many vital daily tasks that human needs, such as caring for the elderly and taking care of the elderly permanently and completing the housework and many others that one system of artificial intelligence will be able to do together. Significant role in performing potentially hazardous work such as firefighting and mine disposal.</p>
+
+             
+ 
+            <p id="a2"><spam id="c">Transportation</spam>: Autonomous cars are expected to be fully accessible in the future, so that the driver can do anything else and leave the driving system to the artificial intelligence available in his car. It should be noted that self-driving cars are already present, but Will be widely available in the future.</p>
+            
+            
+            <h1 id="a1">Conclusion</h1>
+
+            <div id="Conclusion"></div>
+            <p id="a2">AI is at the centre of a new enterprise to build computational models of intelligence. The main assumption is that intelligence (human or otherwise) can be represented in terms of symbol structures and symbolic operations which can be programmed in a digital computer.</p> 
+            <p id="a2">There is much debate as to whether such an appropriately programmed computer would be a mind, or would merely simulate one, but AI researchers need not wait for the conclusion to that debate, nor for the hypothetical computer that could model all of human intelligence. Aspects of intelligent behaviour, such as solving problems, making inferences, learning, and understanding language, have already been coded as computer programs, and within very limited domains, such as identifying diseases of soybean plants, AI programs can outperform human experts.</p>
+            <p id="a2">Now the great challenge of AI is to find ways of representing the commonsense knowledge and experience that enable people to carry out everyday activities such as holding a wide-ranging conversation, or finding their way along a busy street. Conventional digital computers may be capable of running such programs, or we may need to develop new machines that can support the complexity of human thought.</p>
+        </div>
+        
+        <div id="About us"></div>
+        
+        
+        
+        <div id="r"> 
+       
+            
+            <div id="References"></div>
+            <h2>References</h2>
+          
+             <a href="https://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/chap1/node8.html">Conclusion</a>
+             <a href="https://en.wikipedia.org/wiki/Artificial_intelligence#Tools">wikipedia</a>
+             
+             <p id="f"> This page is a simple summary of artificial intelligence &copy;2019 </p>
+            <p id="f2">To Write <a href="mailto:">Deitel & Associates,Inc</a>click the link and your default email client open an email massage and addressit to us.</p>
+        </div>
+        
+        
+        <style>
+            
+            li{display: inline-block;float: left; font-size: 20px; color:darkcyan;}
+            lu{background-color: deepskyblue;}
+            
+            #a{background-color: darkcyan;width: 100%;padding-bottom: 1%;}
+            body{background-color: whitesmoke;}
+         
+            #a1{background-color: #36a1b0;padding-left: 23%;color: white; width: 48%;}
+            #a2{;padding-left:1%;text-align: justify;width: 70%;font-size: 19px;font-family:sans-serif;}
+            
+           a{text-decoration: none;}
+           a:hover{text-decoration: underline; color: lightcoral;}
+            
+            img{float: right; width: 27%;}
+            
+            
+            table {font-family: arial, sans-serif;border-collapse: collapse;width: 60%;}
+            td, th {border: 1px solid #dddddd;text-align: left;padding: 8px;}
+            tr:nth-child(even) {background-color: #dddddd;}
+            
+            #p1{text-align: justify;}
+            #D{padding-left: 1%;}
+            #c{color: cadetblue;}
+            #r{background-color: darkgray;}
+            
+        </style>
+
+    </body>
+
+</html>
